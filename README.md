@@ -16,7 +16,6 @@
 ##### Spatial Data Analysis Using ARC-GIS and QGIS
 ##### Development of Map Database Using SQL
 ##### Analysis of Satellite Images and Aerial Photographs Using Erdas Imagine
-##### Aerial photographic positioning work using PhoEMS
 ##### Data Analysis Using R and Pandas
 
 
