@@ -9,7 +9,7 @@
 ##### Bachelor of Science in Urban Engineering, Incheon National University
 
 #### 🌱 Career
-##### Database development of Naver Maps
+##### Development of database for Naver Maps in NTS
 ##### Spatial Data Analysis and Satellite Image Analysis in the Republic of Korea Army
 
 #### 🌱 Skill
