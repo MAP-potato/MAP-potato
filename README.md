@@ -4,7 +4,7 @@
 ##### 👋Hi there! I'm MAP Database Developer using GIS and SQL
 ##### I focused on spatial information engineering and I am currently developing Naver Map Database.
 ##### In addition, I am studying computer science as a major in my master's course
-##### The research area is analyzing people's behavior data using machine learning.
+##### My research field is financial data analysis through machine learning.
 
 #### 🌱 School
 ##### Master of Computer Science, University of Seoul
